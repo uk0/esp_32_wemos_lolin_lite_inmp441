@@ -20,7 +20,7 @@
 
 #define I2S_PORT I2S_NUM_1
 #define I2S_SAMPLE_RATE   (16000)
-#define I2S_SAMPLE_BITS   (32)
+#define I2S_SAMPLE_BITS   (16)
 #define I2S_READ_LEN      (1024 * 4)
 #define I2S_CHANNEL_NUM   (1)
 
